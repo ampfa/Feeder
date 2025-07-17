@@ -1,0 +1,15 @@
+{
+    "name": "smart-feeder-desktop",
+    "version": "1.0.0",
+    "description": "Smart Feeder Monitoring Desktop App (LoRa + Firebase)",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "devDependencies": {
+      "electron": "^28.2.0"
+    }
+  }
+  
