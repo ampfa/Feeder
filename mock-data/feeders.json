@@ -1,0 +1,17 @@
+[
+    {
+      "id": "feeder1",
+      "location": "North Ridge",
+      "feed_level": 15,
+      "battery": 82,
+      "last_updated": "2025-07-17T08:00:00Z"
+    },
+    {
+      "id": "feeder2",
+      "location": "South Plot",
+      "feed_level": 78,
+      "battery": 90,
+      "last_updated": "2025-07-17T07:50:00Z"
+    }
+  ]
+  
